@@ -1,9 +1,3 @@
 evanderm github evandermeer84
 srokeefe srokeefe
 balreet github: balreetg
-
-| CCID | GitHub ID |
-|------|-----------|
-|evanderm|evandermeer84|
-|srokeefe|srokeefe|
-|balreet|balreetg|
